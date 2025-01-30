@@ -1,5 +1,5 @@
 function addNumbers(a, b) {
-    return a + b + (-5);
+    return a + b;
 }
 
 function multiplyNumbers(a, b) {
